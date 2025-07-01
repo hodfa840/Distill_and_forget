@@ -1,0 +1,24 @@
+# Ignore model directories and files
+models/
+checkpoints/
+*.bin
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.onnx
+*.tflite
+*.pb
+
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv
+.ipynb_checkpoints
+
+# VS Code
+.vscode/ 
