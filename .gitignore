@@ -10,6 +10,9 @@ checkpoints/
 *.tflite
 *.pb
 
+# Log files
+log/
+
 # Standard Python ignores
 __pycache__/
 *.py[cod]
